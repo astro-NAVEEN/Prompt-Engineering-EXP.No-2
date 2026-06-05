@@ -21,5 +21,7 @@ Your goal is to determine which combination of prompting technique + platform pr
 5.User experience
 
 OUTPUT:
+https://github.com/astro-NAVEEN/Prompt-Engineering-EXP.No-2/blob/main/EX02_Naveen_RedBlack%20(1).pdf
 
 RESULT:
+ ChatGPT with Role-Based Prompting gave the best overall summary, providing high accuracy, clarity, and simplicity. Claude performed similarly well, while Zero-Shot Prompting was faster but less detailed.
